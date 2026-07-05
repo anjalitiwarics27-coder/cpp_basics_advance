@@ -1,0 +1,10 @@
+Variable Naming Rules :
+
+
+1) Variable can start from alphabet or _ .
+
+2) Special character except_are not allowed .
+
+3) Blanks,commas not allowed .
+
+4) Keywords not allowed .
