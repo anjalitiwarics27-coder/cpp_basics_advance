@@ -8,4 +8,7 @@ int main(){
     cout<<s3<<endl;
     string s ="abc";
     cout<<s<<endl;
+    string s4 = "Raghav";
+    s4+="Garg";
+    cout<<s4<<endl;
 }
