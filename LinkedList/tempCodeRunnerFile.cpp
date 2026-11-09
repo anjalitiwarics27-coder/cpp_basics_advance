@@ -1,3 +1,8 @@
-cout<<"After Insertation : "<<endl;
-    // InsertAtEnd();
-    // dis
+class Node{
+    int val;
+    Node*next;
+    Node (int val){
+        this->val = val;
+        this->next=NULL;
+    }
+};
