@@ -1,0 +1,32 @@
+
+
+----------------------------------------------------------------
+                       
+                                CONTENTS
+
+----------------------------------------------------------------
+
+
+1 . Introduction 
+
+2. Basics operations on a built-in stack
+
+3. Basic Questions
+
+4. Stack implementation via linked list
+
+5. Questions on stacks
+
+
+
+
+push(val), pop(), top(), size()  -----> time complexity O(1)
+
+
+
+stack is truly unlimited like linkedlist . 
+
+
+
+
+
